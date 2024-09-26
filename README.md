@@ -14,8 +14,10 @@ For my final assignment, I chose Entangled (2015) by digital artist Camille Utte
 
 I would like to learn about Hand Gesture Detection as the coding technique for my final project. By implementing this, the camera can detect the hand gestures of my audience, allowing them to interact with the digital canvas using their physical movements. I believe this will make the experience more engaging and introduce an element of unpredictability, as the artwork that appears on the canvas would vary based on random gestures. I find this technique valuable to learn and explore further in the field of electronic art.
 
-![Screenshot](file:///Users/minghechang/Desktop/Screenshot%202024-09-26%20at%203.21.24%E2%80%AFPM.png)
+![Screenshot](https://p5js.org/_astro/handpose-web-editor.Bp4z7L3L_cu1YR.webp)
 
-![Screenshot2](file:///Users/minghechang/Desktop/Screenshot%202024-09-26%20at%203.29.10%E2%80%AFPM.png)
+![Screenshot2](https://p5js.org/_astro/ml5-webcam-multiple.qmpexfUn_Z1G7R6C.webp)
 
 [Turning My Body Into a Controller with Machine Learning, ml5.js, and p5.js](https://www.youtube.com/watch?v=96sWFP9CCkQ)
+
+[Abracadabra: Speak With Your Hands in p5.js and ml5.js](https://p5js.org/tutorials/speak-with-your-hands/)
